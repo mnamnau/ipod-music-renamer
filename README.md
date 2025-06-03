@@ -13,7 +13,7 @@ This script scans all `.mp3` files in the given folder and its subfolders, reads
 
 ---
 
-## ✅ Features
+## Features
 
 - Recursively searches all subfolders (e.g. `F00`, `F01`…)
 - Extracts metadata using ID3 tags
@@ -23,7 +23,7 @@ This script scans all `.mp3` files in the given folder and its subfolders, reads
 
 ---
 
-## ▶️ Requirements
+## Requirements
 
 - Python 3.6+
 - [mutagen](https://mutagen.readthedocs.io/en/latest/) library
