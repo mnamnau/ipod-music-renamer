@@ -6,7 +6,7 @@ It extracts the artist and title and renames each file to the format:
 
 If a file with the same name already exists, a number will be added to make it unique (e.g. `Artist – Title (1).mp3`).
 
-## 📂 Use Case
+## Use Case
 
 When copying music files from an iPod to your computer, the filenames are often cryptic (e.g. `AXYZ.mp3`) and scattered across folders like `F00`, `F01`, etc.  
 This script scans all `.mp3` files in the given folder and its subfolders, reads their metadata, and saves them back with human-readable names.
